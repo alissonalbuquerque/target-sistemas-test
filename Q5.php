@@ -8,5 +8,3 @@ for ($i = strlen($str_input)-1; $i > -1 ; $i--) {
 }
 
 echo "$str_output\n";
-
-?>

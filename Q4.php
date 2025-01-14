@@ -7,5 +7,3 @@ $month_faturament = [
     'ES' => 27165.48,
     'OTHERS' => 19849.53
 ];
-
-?>

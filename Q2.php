@@ -30,5 +30,3 @@ if (in_fib($arg)) {
 } else {
     echo "O número $arg não pertence à sequência de Fibonacci!\n";
 }
-
-?>
