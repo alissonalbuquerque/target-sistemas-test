@@ -26,9 +26,9 @@ function in_fib($input) {
 $arg = $argv[1];
 
 if (in_fib($arg)) {
-    echo "O número $arg pertence à sequência de Fibonacci.\n";
+    echo "O número $arg pertence à sequência de Fibonacci!\n";
 } else {
-    echo "O número $arg não pertence à sequência de Fibonacci.\n";
+    echo "O número $arg não pertence à sequência de Fibonacci!\n";
 }
 
 ?>
